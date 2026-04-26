@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Suryansh 
 
-<!--
-**shh3004e/shh3004e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 IoT | AI/ML Developer | Automation Builder  
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- 🤖 AI & Machine Learning Projects
+- 🌐 IoT-based Smart Systems
+- ⚙️ Automation & Real-time Processing
+- 💻 Full Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- AI-powered assistants  
+- Smart IoT automation systems  
+- Real-time screen analysis tools  
+
+## 🛠️ Tech Stack
+- Python | JavaScript  
+- TensorFlow | OpenCV  
+- Arduino | Raspberry Pi  
+- Node.js | React  
+
+## 📈 Projects
+- 🔹 AI Interview Assistant  
+- 🔹 Smart IoT Automation System  
+- 🔹 Real-time Screen Analyzer  
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/suryansh-b64454383 
+ 
+
+---
+
+⭐ *"Building the future with AI + IoT"*
