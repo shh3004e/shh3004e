@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suryansh 
 
-🚀 IoT | AI/ML Developer | Automation Builder  
+🚀 Software engineer  
 
 ## 🔧 What I Do
 - 🤖 AI & Machine Learning Projects
@@ -14,7 +14,7 @@
 - Real-time screen analysis tools  
 
 ## 🛠️ Tech Stack
-- Python | JavaScript  
+- Python | JavaScript | HTML, CSS ,JS ,AI , using API
 - TensorFlow | OpenCV  
 - Arduino | Raspberry Pi  
 - Node.js | React  
