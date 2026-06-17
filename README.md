@@ -12,7 +12,15 @@
 - AI-powered assistants  
 - Smart IoT automation systems  
 - Real-time screen analysis tools  
-_- Gaming  an agood observer ## 🛠️ Tech Stack
+_- Gaming  and good observer 
+##Games 
+COD All part 
+FREE FIRE 
+PUBG
+PRINCE OF PERSIA (ALL PART)
+X men origin 
+Gension 
+## 🛠️ Tech Stack
 - Python | JavaScript | HTML, CSS ,JS ,AI , using API
 - TensorFlow | OpenCV  
 - Arduino | Raspberry Pi  
