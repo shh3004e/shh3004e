@@ -12,8 +12,7 @@
 - AI-powered assistants  
 - Smart IoT automation systems  
 - Real-time screen analysis tools  
-
-## 🛠️ Tech Stack
+_- Gaming  an agood observer ## 🛠️ Tech Stack
 - Python | JavaScript | HTML, CSS ,JS ,AI , using API
 - TensorFlow | OpenCV  
 - Arduino | Raspberry Pi  
